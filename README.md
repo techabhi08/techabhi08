@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello guys! 👋
 
 Hello Everyone 👋
 I am Abhinay Garg. I am a Undergraduate student in VIT Bhopal 🎓 studying Computer Science. I am a learning enthusiast and I love to work explore and work on different technologies.
