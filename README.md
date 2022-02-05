@@ -1,7 +1,8 @@
-## <h2 align="centre">Hello guys! 👋</h2>
+<h2 align="center">Hello guys! 👋</h2>
 
-I am Abhinay Garg. I am an Undergraduate student at VIT Bhopal 🎓 studying Computer Science and Engineering. I am a learning enthusiast and I love to work explore and work on different technologies.
+<p align="center">I am Abhinay Garg. I am an Undergraduate student at VIT Bhopal 🎓 studying Computer Science and Engineering. I am a learning enthusiast and I love to work explore and work on different technologies.
 I am an Open Source Enthusiast and love to work on real life projects. Some of my hobbies include sketching, reading novels, and also I am a cricket person.
+  </p>
 
 ### 🔧Technologies & Skills
 
