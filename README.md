@@ -15,9 +15,11 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabhi08&layout=compact)](https://github.com/techabhi08/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=techabhi08&theme=radical&show_icons=true" />
-<p>
-  <img align="center" src="https://camo.githubusercontent.com/30974bc8ad9f9bd8b492cbeadd81b2a0eba18a413e35f438f8b14697fda50512/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646576616e736875796164617626" alt="Most Used Languages" />
+## My Stats
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=techabhi08&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=techabhi08&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techabhi08&label=Profile%20views&style=flat&color=1a1b27" alt="profile visit counter" /> </p>
