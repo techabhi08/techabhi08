@@ -6,13 +6,25 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 
 ### 🔧Technologies & Skills
 
-![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
+<!-- ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a) -->
+
+<code><img height="40" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp"></code>
+<code><img height="40" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp"></code>
+<code> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40"></code>
+<code><img height="40" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg"></code>
+<code><img height="20" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp"></code>
+<code><img height="40" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp"></code>
+<code><img height="40" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code>
+<code><img height="40" src="https://media4.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ajy8xhmi0bw13ioscl7ww28o2rlbu2yeiyx2rz0s&rid=giphy.gif&ct=s"></code>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabhi08&layout=compact&theme=gruvbox)](https://github.com/techabhi08/github-readme-stats)
