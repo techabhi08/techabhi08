@@ -6,14 +6,7 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 
 ### 🔧Technologies & Skills
 
-<!-- ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=#0078D6&logoColor=white&color=2bbc8a) -->
-
+<br/>
 <code><img height="40" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp"></code>
 <code><img height="40" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp"></code>
 <code> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40"></code>
