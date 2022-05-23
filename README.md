@@ -25,7 +25,7 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 </p>
 
 <p align = "center">
-  <img src = "https://activity-graph.herokuapp.com/graph?username=techabhi08&theme=gruvebox" align = "center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=techabhi08&theme=react-dark" align = "center">
 </p>
 
 <br>
