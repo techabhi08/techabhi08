@@ -4,9 +4,8 @@
 I am an Open Source Enthusiast and love to work on real life projects. Some of my hobbies include sketching, reading novels, and also I am a cricket person.
   </p>
 
-### 🔧Technologies & Skills
+### **🔧Technologies & Skills**
 
-<br/>
 <code><img height="40" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp"></code>
 <code><img height="40" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp"></code>
 <code> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40"></code>
@@ -22,7 +21,7 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabhi08&layout=compact&theme=gruvbox)](https://github.com/techabhi08/github-readme-stats)
 
-## My Stats
+## **My Stats**
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=techabhi08&show_icons=true&theme=gruvbox&hide_border=true" />
