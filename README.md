@@ -23,8 +23,15 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=techabhi08&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=techabhi08&theme=gruvbox&hide_border=true" />
 </p>
+
+<p align = "center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=techabhi08&theme=react-dark" align = "center">
+</p>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techabhi08&label=Profile%20views&style=flat&color=1a1b27" alt="profile visit counter" /> </p>
+
+
 
 ## Connect With Me: 
 <a href = 'https://www.linkedin.com/in/abhinay-garg-2a3879201/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
