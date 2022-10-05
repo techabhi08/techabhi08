@@ -25,7 +25,7 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=techabhi08&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=techabhi08&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=techabhi08&theme=dark&hide_border=true" />
 </p>
 
 <p align = "center">
