@@ -29,7 +29,7 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 </p>
 
 <p align = "center">
-  <img src = "https://activity-graph.herokuapp.com/graph?username=techabhi08&theme=react-dark" align = "center">
+  [![Abhinay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=techabhi08&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <br>
