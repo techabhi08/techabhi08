@@ -19,7 +19,7 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 <code><img height="40" src="https://media4.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47ajy8xhmi0bw13ioscl7ww28o2rlbu2yeiyx2rz0s&rid=giphy.gif&ct=s"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabhi08&layout=compact&theme=gruvbox)](https://github.com/techabhi08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabhi08&layout=compact&theme=gruvbox)]
 
 ## **My Stats**
 <br/>
@@ -29,7 +29,6 @@ I am an Open Source Enthusiast and love to work on real life projects. Some of m
 </p>
 
 <p align = "center">
-  [![Abhinay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=techabhi08&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <br>
